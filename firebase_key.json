@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "<exam-hall-seating-arrang-38bc9>",
+    "private_key_id": "<5f6855f95f25f10d674f1ad693987348d8833dfe>",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCjOGGzzPIY0ql3\nGp+yZMcVLNpZaQrlJPFMwDPQ7RAnoEkbIsfzwtmH2dGmt5zs/64NzDqnkDxXl+bh\nVXiUd1txD456/u3b8MFp7I09ZjPTLKtO9eVwPHiQTH1kf/Omi7iVYLhauWs4mMiV\nqlE8Rb0kMjvrYeoKIJrfso38b8iPNOFsoNuHzOOuBCkcWm5Bm+BJzk7gfYF4KI+G\ngndG3b5rwxhBxVgsOIBUPVVaCL6mjTK/Z8AShOLmWXUvcyg/BSnMeoVi4bk8VrXv\n7CgBNN6JXPVetO/AXb+rS0hmSS0TH1cmtjCbyKdVCpt3TShl9JQK3rcV4shanHLn\nKMLr7X3VAgMBAAECggEABkKH0L8H+/a8ZCKDxHJEBmZhe3NhZRdtH73xXs5ww6xM\nkXtcgtdSw3iRp1y8aoSF1uahy0JnZg6f3r2J8dvACI6JruLvGXPa3yag5h1w2GUK\nru0UXyEamKIuXvffTuBl9GiwuV4KJDIL412UXwTns6cvkCABu2Czv+eXtXpODVvw\npYkIMPYobecnilT/t3vQKbt8HGMbcasbLXW1XpD4OSmLbHXosuqeCO5AN99hWLU5\nPWqnlyARDS0wU1VOFrqnlSdJRu6QaL3XSfkrOXCJcFXQx4i162qM1lEmipLXSUBW\nEe94WW9CH4CNf7qKM1LAZaRCT+08qHv18lS3WdXZMQKBgQDVi6RcI2z7yPOsaZUS\nI1b05sjRI1ImZHweV7sYvLLiLcsNifS+gOljGArJUDxr6Ou64Md1wz/3ti84nk5i\n6Nmn3LSqJv61UOzB93jR/MLBZ5Z+kLthbsSETD4a9reb55KT08hJMS1+3gxZ1GQI\nkCqcs0zWKJu39yAaQPogNDkhvQKBgQDDq3IpiH7uJwD1879Ld7DDggUMfqmDotGV\nBvePzqCEvU4Yq8M93oHkMbqNc5w6SarYAHN5vkUNsMbuwFZ7ScU36USQm0kV0GXt\nRG9X/g2zuu6HxybiR/oQwraEfqeHsEyDicV9zsO9SsW6wh+sGLWS4L7zswOufPyv\nMSPSLKix+QKBgQCaA7wIJBi/RADTEddNHKXjveuKQwJF5GVMcRPk1Hvj+wke+6fE\nGi+5o6Zr6W2amoQh5WqWObsSCpjmKe75EV2h3uGCcttzpCkOAFFoifdhDDgTkolC\nzWP40xBb3CMy04L5EV67wzc/8CBSTYfUUT4ahIrfTqx4s0i5BrIfteqatQKBgQCb\n/BANZh/yEKvmZoMIUYlbwknuFQdjxieXyy8NuGYki5k3d640oy4fUTlrzE8t9E46\n1dk4o2L/L/7WlAQdUsji8pXTRce0mSa4SEcO+ZvIvOus2Cl6WHDUbbT82M8LD5Nf\nhTQoP+2w+Gu6n0iKdERDq+Dt+7aiokb6Do2E3k85WQKBgFe+Aw4XjS2M0wOHpgAT\nAldXuTka8A1cf2+9BWWliMkubzqMCMZaNiIykPyoJLd4vmmhJtSRUCxS46r3DnZY\nUB0vkJu6J4PHEYE0kOW3jd0EKtTDbVx5DHLPKa/d7qwRHCWO8xWOPwTaxMB+rhSO\n4JULkQZbKl5f71fc0zIwuYu6\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-fbsvc@exam-hall-seating-arrang-38bc9.iam.gserviceaccount.com",
+    "client_id": "109611027460095369266",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40exam-hall-seating-arrang-38bc9.iam.gserviceaccount.com"
+}
