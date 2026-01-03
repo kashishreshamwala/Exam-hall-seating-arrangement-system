@@ -3,6 +3,9 @@
 A web-based system to automate and manage examination seating in educational institutions. Built with **Streamlit**, the system provides smart seating allocation, classroom management, and real-time visualization of student seat assignments.
 
 ---
+## 📊 Power BI Dashboard
+
+📄 [View Power BI Dashboard (PDF)](assets/Seating_arrangement_power_BI.pdf)
 
 ## Features
 
